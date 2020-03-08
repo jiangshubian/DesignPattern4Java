@@ -1,4 +1,4 @@
-package com.shu.singletonmodel;
+package com.shu.singleton;
 
 /**
  * @author: jiangshubian
